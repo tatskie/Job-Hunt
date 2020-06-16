@@ -1,0 +1,1 @@
+<a class="dropdown-item" href="#" style="background-color: #b1bace;">Company has reply to your application <br/> <small>3 days ago..</small></a>
